@@ -1,7 +1,7 @@
 ---
 title: Martin Nguyen
 role: Computer Science Graduate
-avatar_filename: img_2888-min.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
