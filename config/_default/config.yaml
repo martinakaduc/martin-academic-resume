@@ -24,6 +24,11 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
 
+backend:
+  name: git-gateway
+  repo: martinakaduc/martinakaduc.github.io
+  branch: main
+
 ############################
 ## ADVANCED
 ############################
