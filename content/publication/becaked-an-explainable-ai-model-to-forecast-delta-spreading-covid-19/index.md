@@ -11,7 +11,8 @@ authors:
   - Khuong Nguyen An
   - Chon Le Trung
   - Tho Quan Thanh
-publication: Accepted at 2022 International Conference on Innovations in Computing Research
+publication: Accepted at *2022 International Conference on Innovations in
+  Computing Research*
 abstract: >-
   Covid-19 is a global disaster which requires not only medical humanity but
   also computing power to predict, and, ideally, interpret these pandemics. Deep
@@ -20,7 +21,7 @@ abstract: >-
   SIR, help experts with insightful information. However, those need to be
   provided with parameter values, which become complicated in certain locations.
 
-  The fourth wave of the pandemic in Ho Chi Minh City (HCMC), Vietnam in 2021 offers valuable lessons along with real and specific data. Hence, we introduce an explainable AI model known as BeCaked+ to predict and analyze efficiently the pandemic situation from the collected data. BeCaked+ combined deep learning and epidemiological models enhanced by specific parameters related to the policies endorsed by the government. Such combination makes BeCaked+ accurate and informative for policymakers to make appropriate responses. One take a try BeCaked+ at http://www.cse.hcmut.edu.vn/BeCaked
+  The fourth wave of the pandemic in Ho Chi Minh City (HCMC), Vietnam in 2021 offers valuable lessons along with real and specific data. Hence, we introduce an explainable AI model known as BeCaked+ to predict and analyze efficiently the pandemic situation from the collected data. BeCaked+ combined deep learning and epidemiological models enhanced by specific parameters related to the policies endorsed by the government. Such combination makes BeCaked+ accurate and informative for policymakers to make appropriate responses. One take a try BeCaked+ at [http://www.cse.hcmut.edu.vn/BeCaked](ttp://www.cse.hcmut.edu.vn/BeCaked).
 draft: false
 featured: false
 tags:
