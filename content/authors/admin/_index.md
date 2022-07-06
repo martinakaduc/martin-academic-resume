@@ -2,19 +2,24 @@
 title: Martin Nguyen
 role: Computer Science Graduate
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Artificial Intelligence, Computational
+  Biology and Graph Representation Learning.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Biology
+  - Graph Representation Learning
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:duc.nguyenquang@hcmut.edu.vn
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/martinakaduc
+  - display:
+      header: false
+    icon_pack: ai
+    icon: orcid
+    link: https://orcid.org/ 0000-0001-9638-8289
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=vi&user=GxNun8EAAAAJ
@@ -36,9 +41,8 @@ email: nguyenquangduc2000@gmail.com
 superuser: true
 highlight_name: true
 ---
+Martin Nguyen, who is also known as Duc Q. Nguyen, recently graduated with a Bachelor of Engineering in Computer Science. Now he is working as Research Assistant, Teaching Assistant and Researcher under the supervision of [Assoc. Prof. Tho Quan](http://www.cse.hcmut.edu.vn/qttho/doku.php?id=start). His research interests include Artificial Intelligence, Computational Biology and Graph Representation Learning.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+His biggest ambition is to make human life better and better using his talent and experiences.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/martin_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
