@@ -56,7 +56,7 @@ tags:
 categories:
   - Deep Learning
 image:
-  filename: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-022-11693-9/MediaObjects/41598_2022_11693_Fig1_HTML.png?as=webp
+  filename: 41598_2022_11693_fig1_html.png
   focal_point: Smart
   preview_only: false
 date: 2022-05-13T15:38:33.657Z
