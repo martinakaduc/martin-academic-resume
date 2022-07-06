@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Duy Nguyen
-  - me
+  - admin
   - Thong Nguyen
   - Khoi Ngo
   - Hung Cao
