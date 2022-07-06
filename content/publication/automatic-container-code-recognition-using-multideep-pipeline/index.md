@@ -11,7 +11,7 @@ authors:
   - Thinh Vuong
   - Tho Quan
 doi: 10.1007/978-3-030-63119-2_12
-publication: In *Proceeding of 12th International Conference on Computational
+publication: In *Proceedings of 12th International Conference on Computational
   Collective Intelligence*
 abstract: Identification of license plates on intermodal containers (or
   containers) while entering and departing from the yard provides a wide range
