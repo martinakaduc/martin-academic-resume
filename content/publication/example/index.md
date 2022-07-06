@@ -42,15 +42,19 @@ title: Design, implementation and evaluation for a high precision prosthetic
   hand using MyoBand and Random Forest algorithm
 doi: 10.32508/stdjet.v3iSI1.536
 featured: false
-tags: []
+tags:
+  - machine learning
+  - random forest
+  - prosthetic hand
+  - electromyography
 projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00.000Z
+date: 2020-10-17T14:54:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
