@@ -56,7 +56,7 @@ tags:
 categories:
   - Deep Learning
 image:
-  filename: 41598_2022_11693_fig1_html.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2022-05-13T15:38:33.657Z
