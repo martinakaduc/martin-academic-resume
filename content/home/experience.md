@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: Assoc. Prof. Tho Quan
     company_url: ''
-    company_logo: org-bk
+    company_logo: hcmut
     location: Ho Chi Minh City, Vietnam
     date_start: '2022-02-01'
     date_end: ''
