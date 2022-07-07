@@ -32,6 +32,7 @@ tags:
   - Explainable AI
   - Epidemic mode
   - Time series
+  - Deep Learning
 categories:
   - Deep Learning
 image:

@@ -51,6 +51,7 @@ tags:
   - Disease model
   - Dynamical systems
   - Machine learning
+  - Deep Learning
   - Public health
   - Time series
 categories:
