@@ -25,32 +25,28 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: duc.nguyenquang@hcmut.edu.vn
+  phone: (+84) 898 986 370
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 268 Ly Thuong Kiet
+    city: Ward 14
+    region: District 10
+    postcode: '700000'
+    country: Viet Nam
+    country_code: VN
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '10.772856'
+    longitude: '106.657753'
+  directions: Enter Gate 1, then turn left to the parking area. I am available in VNPT Lab.
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - 'Morning: 8 a.m. to 12 p.m.'
+    - 'Afternoon: 13 p.m. to 17 p.m.'
+  appointment_url: 'https://calendly.com/martinakaduc'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://twitter.com/martinakaduc'
 
 design:
   columns: '2'

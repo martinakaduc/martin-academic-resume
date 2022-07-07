@@ -45,4 +45,4 @@ Martin Nguyen, who is also known as Duc Q. Nguyen, recently graduated with a Bac
 
 His biggest ambition is to make human life better and better using his talent and experiences.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/martin_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/martin_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
