@@ -32,7 +32,7 @@ content:
     city: Ward 14
     region: District 10
     postcode: '700000'
-    country: Viet Nam
+    country: Vietnam
     country_code: VN
   coordinates:
     latitude: '10.772856'
