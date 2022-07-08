@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: uploads/SVAI_2021.pdf
+    date_end: ''
+    date_start: '2021-12-29'
+    description: 'Students with excellent achievements in learning and research in the field of Information Technology, Artificial Intelligence'
+    organization: HCMC Department of Information and Communication
+    organization_url: https://ict-hcm.gov.vn
+    title: Certificate of Merit
+    url: ''
   - certificate_url: https://www.efset.org/cert/bjggMh
     date_end: ''
     date_start: '2021-11-23'
@@ -30,6 +38,22 @@ item:
     organization: EF SET
     organization_url: https://www.efset.org
     title: EF SET English Certificate 75/100 (C2 Proficient)
+    url: ''
+  - certificate_url: uploads/Typical_Student.pdf
+    date_end: ''
+    date_start: '2021-12-29'
+    description: 'Bach Khoa Youth Award 2020'
+    organization: HCMUT
+    organization_url: https://www.hcmut.edu.vn
+    title: Certificate of Typical Student
+    url: ''
+  - certificate_url: uploads/SVAI_2019.pdf
+    date_end: ''
+    date_start: '2021-12-27'
+    description: 'Student with excellent achievements in Artificial Intelligence research'
+    organization: HCMC Department of Information and Communication
+    organization_url: https://ict-hcm.gov.vn
+    title: Certificate of Merit
     url: ''
 
 design:
