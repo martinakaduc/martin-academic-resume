@@ -41,7 +41,7 @@ item:
     url: ''
   - certificate_url: uploads/Typical_Student.pdf
     date_end: ''
-    date_start: '2021-12-29'
+    date_start: '2020-12-29'
     description: 'Bach Khoa Youth Award 2020'
     organization: HCMUT
     organization_url: https://www.hcmut.edu.vn
@@ -49,7 +49,7 @@ item:
     url: ''
   - certificate_url: uploads/SVAI_2019.pdf
     date_end: ''
-    date_start: '2021-12-27'
+    date_start: '2019-12-27'
     description: 'Student with excellent achievements in Artificial Intelligence research'
     organization: HCMC Department of Information and Communication
     organization_url: https://ict-hcm.gov.vn
